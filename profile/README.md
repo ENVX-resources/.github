@@ -16,3 +16,9 @@ This is an online open educational resources repository for the following units 
 - ENVX1002
 - ENVX2001
 - ENVX3002
+
+The following are currently in development:
+
+- ENVX1002 handbook
+- ENV1002 lab exercises
+- ENVX2001 handbook
