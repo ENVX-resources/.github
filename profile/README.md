@@ -11,11 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is an online open educational resources repository for the following units at The University of Sydney:
+This is an online open educational resources repository for the following ENVX-spcific units of study at The University of Sydney:
 
-- ENVX1002
-- ENVX2001
-- ENVX3002
+- [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002)
+- [ENVX2001: Applied Statistical Methods](https://www.sydney.edu.au/units/ENVX2001)
+- [ENVX3002: Statistics in the Natural Sciences](https://www.sydney.edu.au/units/ENVX3002)
 
 The following are currently in development:
 
