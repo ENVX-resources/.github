@@ -17,8 +17,7 @@ Resources will be available for the following units:
 
 - [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) 
 - [ENVX2001: Applied Statistical Methods](https://www.sydney.edu.au/units/ENVX2001) 
-- [ENVX3002: Statistics in the Natural Sciences](https://www.sydney.edu.au/units/ENVX3002) *🚧 under construction 🚧*
-
+- [ENVX3002: Statistics in the Natural Sciences](https://www.sydney.edu.au/units/ENVX3002)
 
 The following are currently in development:
 
