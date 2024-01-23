@@ -24,3 +24,28 @@ The following are currently in development:
 - ENVX1002 handbook
 - ENV1002 lab exercises
 - ENVX2001 handbook
+
+## Lectures
+Note that some lectures are still being actively converted (from MS Powerpoint) and may not be available in 2024. 
+
+### ENVX1002
+
+- [Week 09](https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic09)
+- [Week 10](https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic10)
+- [Week 11](https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic11)
+- [Week 12](https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic12)
+
+### ENVX2001
+
+- Week 01
+- Week 02
+- Week 03
+- Week 04
+- Week 05
+- Week 06
+- Week 07
+- Week 08
+- Week 09
+- Week 10
+- Week 11
+- Week 12
