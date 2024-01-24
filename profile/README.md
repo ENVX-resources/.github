@@ -49,10 +49,16 @@ Note that some lectures are still being actively converted (from MS Powerpoint),
 | Week 07 | Week 07  Regression modelling |
 | Week 08 | Week 08 Regression model development |
 | [Week 09 Describing relationships][w09envx1001] \| [Source][w09envx1001src] | Week 09 Regression model assessment|
-| [Week 10 Simple linear regression](https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic10) | Week 10 |
-| [Week 11 Multiple linear regression](https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic11) | Week 11 |
-| [Week 12 Non-linear regression](https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic12) | Week 12 |
+| [Week 10 Simple linear regression][w10envx1001] \| [Source][w10envx1001src] | Week 10 |
+| [Week 11 Multiple linear regression][w11envx1001] | Week 11 |
+| [Week 12 Non-linear regression][w12envx1001] | Week 12 |
 
 
 [w09envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic09
 [w09envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic09
+[w10envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic10
+[w10envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic10
+[w11envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic11
+[w11envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic11
+[w12envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic12
+[w12envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic12
