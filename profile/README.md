@@ -27,12 +27,12 @@ The following are currently in development:
 
 ## Handbooks
 
-Handbooks (also called manuals) are supplementary course material for a Unit of Study. Not all units deploy handbooks, but we plan to do so for ENVX units. Note that the books are 🚧 under construction 🚧 and are being developed constantly.
+Handbooks (also called manuals) are supplementary course material for a Unit of Study. Not all units deploy handbooks, but we plan to do so for ENVX units. Note that the books are still in development (2024).
 
 - ENVX1002 Handbook | [*Source*](https://github.com/ENVX-resources/ENVX1002-manual)
 
 ## Lectures
-Note that some lectures are still being actively converted (from MS Powerpoint), which takes time in a multidisciplinary teaching team. 
+Lectures are still being actively converted (from MS Powerpoint). 
 
 > [!NOTE]
 > If you are currently enrolled in the course(s) below and cannot find a lecture slide for the week,  **check Canvas as the Unit of Study sites will always host the latest learning resources for download.**
