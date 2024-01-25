@@ -40,20 +40,35 @@ Lectures are still being actively converted (from MS Powerpoint).
 ### 2024
 | ENVX1002 | ENVX2001 |
 | --- | --- |
-| Week 01 Introduction | Week 01 Introduction |
-| Week 02 Exploring data| Week 02 Sample designs |
-| Week 03 Probability distributions | Week 03 One-way ANOVA|
-| Week 04 Sampling distributions | Week 04 |
-| Week 05 | Week 05 |
-| Week 06 | Week 06 |
-| Week 07 | Week 07  Regression modelling |
-| Week 08 | Week 08 Regression model development |
+| [Week 01 Introduction][w01envx1001] \| [Source][w01envx1001src] | Week 01 Introduction |
+| Week 02 Exploring data \| [Source][w02envx1001src] | Week 02 Sample designs |
+| Week 03 Probability distributions \| [Source][w03envx1001src] | Week 03 One-way ANOVA|
+| Week 04 Sampling distributions \| [Source][w04envx1001src] | Week 04 |
+| Week 05  \| [Source][w05envx1001src] | Week 05 |
+| Week 06  \| [Source][w06envx1001src] | Week 06 |
+| Week 07  \| [Source][w07envx1001src] | Week 07  Regression modelling |
+| Week 08  \| [Source][w08envx1001src] | Week 08 Regression model development |
 | [Week 09 Describing relationships][w09envx1001] \| [Source][w09envx1001src] | Week 09 Regression model assessment|
 | [Week 10 Simple linear regression][w10envx1001] \| [Source][w10envx1001src] | Week 10 |
 | [Week 11 Multiple linear regression][w11envx1001] | Week 11 |
 | [Week 12 Non-linear regression][w12envx1001] | Week 12 |
 
-
+[w01envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic01
+[w01envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic01
+[w02envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic02
+[w02envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic02
+[w03envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic03
+[w03envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic03
+[w04envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic04
+[w04envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic04
+[w05envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic05
+[w05envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic05
+[w06envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic06
+[w06envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic06
+[w07envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic07
+[w07envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic07
+[w08envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic08
+[w08envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic08
 [w09envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic09
 [w09envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic09
 [w10envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic10
