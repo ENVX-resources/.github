@@ -50,8 +50,8 @@ Lectures are still being actively converted (from MS Powerpoint).
 | Week 08  \| [Source][w08envx1001src] | Week 08 Regression model development |
 | [Week 09 Describing relationships][w09envx1001] \| [Source][w09envx1001src] | Week 09 Regression model assessment|
 | [Week 10 Simple linear regression][w10envx1001] \| [Source][w10envx1001src] | Week 10 |
-| [Week 11 Multiple linear regression][w11envx1001] | Week 11 |
-| [Week 12 Non-linear regression][w12envx1001] | Week 12 |
+| [Week 11 Multiple linear regression][w11envx1001] \| [Source][w11envx1001src] | Week 11 |
+| [Week 12 Non-linear regression][w12envx1001] \| [Source][w12envx1001src] | Week 12 |
 
 [w01envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic01
 [w01envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic01
