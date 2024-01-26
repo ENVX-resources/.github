@@ -38,20 +38,20 @@ Lectures are still being actively converted (from MS Powerpoint).
 > If you are currently enrolled in the course(s) below and cannot find a lecture slide for the week,  **check Canvas as the Unit of Study sites will always host the latest learning resources for download.**
 
 ### 2024
-| ENVX1002 | ENVX2001 |
-| --- | --- |
-| [Week 01 Introduction][w01envx1001] \| [Source][w01envx1001src] | Week 01 Introduction |
-| Week 02 Exploring data \| [Source][w02envx1001src] | Week 02 Sample designs |
-| Week 03 Probability distributions \| [Source][w03envx1001src] | Week 03 One-way ANOVA|
-| Week 04 Sampling distributions \| [Source][w04envx1001src] | Week 04 |
-| Week 05  \| [Source][w05envx1001src] | Week 05 |
-| Week 06  \| [Source][w06envx1001src] | Week 06 |
-| Week 07  \| [Source][w07envx1001src] | Week 07  Regression modelling |
-| Week 08  \| [Source][w08envx1001src] | Week 08 Regression model development |
-| [Week 09 Describing relationships][w09envx1001] \| [Source][w09envx1001src] | Week 09 Regression model assessment|
-| [Week 10 Simple linear regression][w10envx1001] \| [Source][w10envx1001src] | Week 10 |
-| [Week 11 Multiple linear regression][w11envx1001] \| [Source][w11envx1001src] | Week 11 |
-| [Week 12 Non-linear regression][w12envx1001] \| [Source][w12envx1001src] | Week 12 |
+| Week | ENVX1002 | ENVX2001 |
+| --- | --- | --- |
+| 01 | [Introduction][w01envx1001] \| [Source][w01envx1001src] | Introduction |
+| 02 | Exploring data \| [Source][w02envx1001src] | Sample designs |
+| 03 | Probability distributions \| [Source][w03envx1001src] | One-way ANOVA|
+| 04 | Sampling distributions \| [Source][w04envx1001src] | Week 04 |
+| 05 | Week 05  \| [Source][w05envx1001src] | Week 05 |
+| 06 | Week 06  \| [Source][w06envx1001src] | Week 06 |
+| 07 | Week 07  \| [Source][w07envx1001src] | Regression modelling |
+| 08 | Week 08  \| [Source][w08envx1001src] | Regression model development |
+| 09 | [Describing relationships][w09envx1001] \| [Source][w09envx1001src] | Regression model assessment|
+| 10 | [Simple linear regression][w10envx1001] \| [Source][w10envx1001src] | Week 10 |
+| 11 | [Multiple linear regression][w11envx1001] \| [Source][w11envx1001src] | Week 11 |
+| 12 | [Non-linear regression][w12envx1001] \| [Source][w12envx1001src] | Week 12 |
 
 [w01envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic01
 [w01envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic01
