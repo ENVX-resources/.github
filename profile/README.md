@@ -41,9 +41,9 @@ Lectures are still being actively converted (from MS Powerpoint).
 | Week | ENVX1002 | ENVX2001 |
 | --- | --- | --- |
 | 01 | [Introduction][w01envx1001] \| [Source][w01envx1001src] | Introduction |
-| 02 | Exploring data \| [Source][w02envx1001src] | Sample designs |
-| 03 | Probability distributions \| [Source][w03envx1001src] | One-way ANOVA|
-| 04 | Sampling distributions \| [Source][w04envx1001src] | Week 04 |
+| 02 | [Exploring data][w02envx1001] \| [Source][w02envx1001src] | Sample designs |
+| 03 | [Probability distributions][w03envx1001] \| [Source][w03envx1001src] | One-way ANOVA|
+| 04 | [Sampling distributions][w04envx1001] \| [Source][w04envx1001src] | Week 04 |
 | 05 | Week 05  \| [Source][w05envx1001src] | Week 05 |
 | 06 | Week 06  \| [Source][w06envx1001src] | Week 06 |
 | 07 | Week 07  \| [Source][w07envx1001src] | Regression modelling |
