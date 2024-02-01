@@ -42,19 +42,20 @@ Click on the titles to view the HTML slides.
 
 | Week | ENVX1002 | ENVX2001 |
 | --- | --- | --- |
-| 01 | [Introduction][w01envx1001] \| [Source][w01envx1001src] | Introduction |
-| 02 | [Exploring data][w02envx1001] \| [Source][w02envx1001src] | Sample designs |
-| 03 | [Probability distributions][w03envx1001] \| [Source][w03envx1001src] | One-way ANOVA|
-| 04 | [Sampling distributions][w04envx1001] \| [Source][w04envx1001src] | Week 04 |
-| 05 | Week 05  \| [Source][w05envx1001src] | Week 05 |
-| 06 | Week 06  \| [Source][w06envx1001src] | Week 06 |
-| 07 | Week 07  \| [Source][w07envx1001src] | Regression modelling |
-| 08 | Week 08  \| [Source][w08envx1001src] | Regression model development |
-| 09 | [Describing relationships][w09envx1001] \| [Source][w09envx1001src] | Regression model assessment|
-| 10 | [Simple linear regression][w10envx1001] \| [Source][w10envx1001src] | Week 10 |
-| 11 | [Multiple linear regression][w11envx1001] \| [Source][w11envx1001src] | Week 11 |
-| 12 | [Non-linear regression][w12envx1001] \| [Source][w12envx1001src] | Week 12 |
+| 01 | [Introduction][w01envx1001] | [L01a Welcome][y2lect01] <br> [L01b Introduction][y2lect02] |
+| 02 | [Exploring data][w02envx1001] | [L02a Sampling designs 1][y2lect03] <br> [L02b Sampling designs 2][y2lect04] |
+| 03 | [Probability distributions][w03envx1001] | [L03a *t*-tests][y2lect05] <br> [L03b One-way ANOVA][y2lect06]|
+| 04 | [Sampling distributions][w04envx1001] | L04 Residual diagnostics & post-hoc tests |
+| 05 | Week 05 | L05 Experimental design |
+| 06 | Week 06 | L06 ANOVA with blocking |
+| 07 | Week 07 | L07 Regression modelling |
+| 08 | Week 08 | L08 Regression model development |
+| 09 | [Describing relationships][w09envx1001] | L09 Regression model assessment|
+| 10 | [Simple linear regression][w10envx1001] | L10 Principle component analysis |
+| 11 | [Multiple linear regression][w11envx1001] | L11 Clustering |
+| 12 | [Non-linear regression][w12envx1001] | L12 Multidimensional scaling |
 
+<!-- ENVX1002 Links (update each year?) -->
 [w01envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic01
 [w01envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic01
 [w02envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic02
@@ -79,3 +80,27 @@ Click on the titles to view the HTML slides.
 [w11envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic11
 [w12envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic12
 [w12envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic12
+
+
+<!-- ENVX2001 Links -->
+<!-- Module 1 -->
+[y2lect01]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Week01a
+[y2lect02]: README.md
+[y2lect03]: README.md
+[y2lect04]: README.md
+[y2lect05]: README.md
+[y2lect06]: README.md
+<!-- Module 2 -->
+[y2lect07]: README.md
+[y2lect08]: README.md
+[y2lect09]: README.md
+<!-- Module 3 -->
+[y2lect10]: README.md
+[y2lect11]: README.md
+[y2lect12]: README.md
+<!-- Module 4 -->
+[y2lect13]: README.md
+[y2lect14]: README.md
+[y2lect15]: README.md
+<!-- Revision W13 -->
+[y2lect16]: README.md
