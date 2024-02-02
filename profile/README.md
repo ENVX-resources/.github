@@ -77,12 +77,12 @@ Click on the titles to view the HTML slides.
 
 <!-- ENVX2001 Links -->
 <!-- Module 1 -->
-[y2lect01]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Week01a
-[y2lect02]: README.md
-[y2lect03]: README.md
-[y2lect04]: README.md
-[y2lect05]: README.md
-[y2lect06]: README.md
+[y2lect01]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Topic01a
+[y2lect02]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Topic01b
+[y2lect03]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Topic02a
+[y2lect04]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Topic02b
+[y2lect05]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Topic03a
+[y2lect06]: https://github.com/ENVX-resources/ENVX2001-2024-Lecture-Topic03b
 <!-- Module 2 -->
 [y2lect07]: README.md
 [y2lect08]: README.md
