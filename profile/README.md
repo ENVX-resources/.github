@@ -35,9 +35,9 @@ Click on the titles to view the HTML slides.
 
 | Week | ENVX1002 | ENVX2001 |
 | --- | --- | --- |
-| 01 | [Introduction][w01envx1001] | [L01a Welcome][y2lect01] <br> [L01b Introduction][y2lect02] |
-| 02 | [Exploring data][w02envx1001] | [L02a Sampling designs 1][y2lect03] <br> [L02b Sampling designs 2][y2lect04] |
-| 03 | [Probability distributions][w03envx1001] | [L03a *t*-tests][y2lect05] <br> [L03b One-way ANOVA][y2lect06]|
+| 01 | [Introduction][w01envx1001] | [L01a Welcome][y2lect01] \| [L01b Introduction][y2lect02] |
+| 02 | [Exploring data][w02envx1001] | [L02a Sampling designs 1][y2lect03] \| [L02b Sampling designs 2][y2lect04] |
+| 03 | [Probability distributions][w03envx1001] | [L03a *t*-tests][y2lect05] \| [L03b One-way ANOVA][y2lect06]|
 | 04 | [Sampling distributions][w04envx1001] | L04 Residual diagnostics & post-hoc tests |
 | 05 | One-sample tests | L05 Experimental design |
 | 06 | Two-sample tests | L06 ANOVA with blocking |
