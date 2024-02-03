@@ -39,10 +39,10 @@ Click on the titles to view the HTML slides.
 | 02 | [Exploring data][w02envx1001] | [L02a Sampling designs 1][y2lect03] <br> [L02b Sampling designs 2][y2lect04] |
 | 03 | [Probability distributions][w03envx1001] | [L03a *t*-tests][y2lect05] <br> [L03b One-way ANOVA][y2lect06]|
 | 04 | [Sampling distributions][w04envx1001] | L04 Residual diagnostics & post-hoc tests |
-| 05 | Week 05 | L05 Experimental design |
-| 06 | Week 06 | L06 ANOVA with blocking |
-| 07 | Week 07 | L07 Regression modelling |
-| 08 | Week 08 | L08 Regression model development |
+| 05 | One-sample tests | L05 Experimental design |
+| 06 | Two-sample tests | L06 ANOVA with blocking |
+| 07 | Non-parametric tests 1 | L07 Regression modelling |
+| 08 | Non-parametric tests 2 | L08 Regression model development |
 | 09 | [Describing relationships][w09envx1001] | L09 Regression model assessment|
 | 10 | [Simple linear regression][w10envx1001] | L10 Principle component analysis |
 | 11 | [Multiple linear regression][w11envx1001] | L11 Clustering |
