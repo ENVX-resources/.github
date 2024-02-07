@@ -23,6 +23,7 @@ Resources will be available for the following units:
 Handbooks (also called manuals) are supplementary course material for a Unit of Study. Not all units deploy handbooks, but we plan to do so for ENVX units. Note that the books are still in development (2024).
 
 - ENVX1002 Handbook | [*Source*](https://github.com/ENVX-resources/ENVX1002-manual)
+- ENVX2001 Handbook - *will be released in 2025*
 
 ## Lectures
 Lectures are still being actively converted (from MS Powerpoint). 
