@@ -32,7 +32,7 @@ Lectures are still being actively converted (from MS Powerpoint).
 > If you are currently enrolled in the course(s) below and cannot find a lecture slide for the week,  **check Canvas as the Unit of Study sites will always host the latest learning resources for download.**
 
 ### 2024
-Click on the titles to view the HTML slides. Note: for ENVX2001, if no links are available, the slides have **not** been updated, but MS PowerPoint versions should be available on Canvas.
+Click on the titles to view the HTML slides. 
 
 | Week | ENVX1002 | ENVX2001 |
 | --- | --- | --- |
