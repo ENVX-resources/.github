@@ -44,10 +44,10 @@ Click on the titles to view the HTML slides. Note: for ENVX2001, if no links are
 | 06 | Two-sample tests | L06 ANOVA with blocking |
 | 07 | Non-parametric tests 1 | L07 Regression modelling |
 | 08 | Non-parametric tests 2 | L08 Regression model development |
-| 09 | [Describing relationships][w09envx1001src] | L09 Regression model assessment|
-| 10 | [Simple linear regression][w10envx1001src] | L10 Principle component analysis |
-| 11 | [Multiple linear regression][w11envx1001src] | L11 Clustering |
-| 12 | [Non-linear regression][w12envx1001src] | L12 Multidimensional scaling |
+| 09 | Describing relationships | L09 Regression model assessment|
+| 10 | Simple linear regression | L10 Principle component analysis |
+| 11 | Multiple linear regression | L11 Clustering |
+| 12 | Non-linear regression | L12 Multidimensional scaling |
 
 <!-- ENVX1002 Links (update each year?) -->
 [w01envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic01
