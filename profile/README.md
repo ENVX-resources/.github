@@ -51,7 +51,7 @@ Click on the titles to view the HTML slides.
 
 ### License
 
-All of the work hosted in ENVX-resources take some form of Creative Commons license or another. Please check each repository for licensing information. If you see errors, feel free to include a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+All of the work hosted in ENVX-resources take some form of [Creative Commons](https://creativecommons.org/) license or another. Please check each repository for licensing information. If you see errors, feel free to include a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 <!-- ENVX1002 Links (update each year?) -->
 [w01envx1001src]: https://github.com/ENVX-resources/ENVX1002-2024-Lecture-Topic01
