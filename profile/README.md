@@ -14,9 +14,9 @@
 This is an online open educational resources repository that is part of the [SOLES Open Educational Resources group](https://github.com/usyd-soles-edu).
 Resources will be available for the following units:
 
-- [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) - partially implemented, should complete in 2024
-- [ENVX2001: Applied Statistical Methods](https://www.sydney.edu.au/units/ENVX2001) - partially implemented, full migration planned for 2025
-- [ENVX3002: Statistics in the Natural Sciences](https://www.sydney.edu.au/units/ENVX3002) - scheduled for 2025
+- [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) - _partially implemented, should complete in 2024_
+- [ENVX2001: Applied Statistical Methods](https://www.sydney.edu.au/units/ENVX2001) - _partially implemented, full migration planned for 2025_
+- [ENVX3002: Statistics in the Natural Sciences](https://www.sydney.edu.au/units/ENVX3002) - _scheduled for 2025_
 
 ## Handbooks
 
