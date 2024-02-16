@@ -32,9 +32,9 @@ These links are for quick access to the resource outputs (documents). They are u
 
 | Week | Lectures | Tutorials | Labs |
 | --- | --- | --- | --- |
-| 01 | [Introduction][w01envx1001] | [Tutorial 01][t1envx1001] | Lab 01 |
-| 02 | [Exploring data][w02envx1001] | Tutorial 02 | Lab 02 |
-| 03 | [Probability distributions][w03envx1001] | Tutorial 03 | Lab 03 |
+| 01 | [Introduction][w01envx1001] | See Canvas | [Lab 01][l1envx1001] |
+| 02 | [Exploring data][w02envx1001] | [Tutorial 02][t2envx1001] | [Lab 02][l2envx1001] |
+| 03 | [Probability distributions][w03envx1001] | [Tutorial 03][t3envx1001] | [Lab 03][l3envx1001] |
 | 04 | [Sampling distributions][w04envx1001] | Tutorial 04 | Lab 04 |
 | 05 | One-sample tests | Tutorial 05 | Lab 05 |
 | 06 | Two-sample tests | Tutorial 06 | Lab 06 |
@@ -67,4 +67,27 @@ All of the work hosted in ENVX-resources take some form of [Creative Commons](ht
 [w12envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic12
 <!-- Tutorials -->
 [t2envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial02
+[t3ENVX1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial03
+[t4envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial04
+[t5envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial05
+[t6envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial06
+[t7envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial07
+[t8envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial08
+[t9envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial09
+[t10envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial10
+[t11envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial11
+[t12envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial12
+<!-- Labs -->
+[l1envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab01
+[l2envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab02
+[l3envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab03
+[l4envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab04
+[l5envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab05
+[l6envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab06
+[l7envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab07
+[l8envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab08
+[l9envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab09
+[l10envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab10
+[l11envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab11
+[l12envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lab12
 
