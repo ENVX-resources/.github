@@ -14,7 +14,7 @@ Handbooks (also called manuals) are supplementary course material for a Unit of 
 - ENVX2001 Handbook - *will be released in 2025*
 
 ## Quick links
-These links are for quick access to the resource outputs (documents). They are updated as the resources are developed. If you are interested in the source code, scroll down to the "Repositories" section on this page.s
+These links are for quick access to the resource outputs (documents). They are updated as the resources are developed. If you are interested in the source code, scroll down to the "Repositories" section on this page.
 
 ### ENVX1002 - Semester 1, 2024
 
