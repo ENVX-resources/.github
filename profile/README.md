@@ -1,22 +1,12 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 This is an online open educational resources repository that is part of the [SOLES Open Educational Resources group](https://github.com/usyd-soles-edu).
 Resources will be available for the following units:
 
 - [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) - _partially implemented, should complete in 2024_
 - [ENVX2001: Applied Statistical Methods](https://www.sydney.edu.au/units/ENVX2001) - _partially implemented, full migration planned for 2025_
 - [ENVX3002: Statistics in the Natural Sciences](https://www.sydney.edu.au/units/ENVX3002) - _scheduled for 2025_
+
+While these resources are provided for students at the University of Sydney, we have decided to release these resources to the public. Feel free to use and reuse our work to learn and teach second-year statistical concepts. If you wish to contribute, create an issue or pull request in any of our repositories!
 
 ## Handbooks
 
