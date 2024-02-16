@@ -25,53 +25,26 @@ Handbooks (also called manuals) are supplementary course material for a Unit of 
 - ENVX1002 Handbook | [*Source*](https://github.com/ENVX-resources/ENVX1002-manual)
 - ENVX2001 Handbook - *will be released in 2025*
 
-## Lectures
-Lectures are still being actively converted (from MS Powerpoint). 
+## Quick links
+These links are for quick access to the resource outputs (documents). They are updated as the resources are developed. If you are interested in the source code, scroll down to the "Repositories" section on this page.s
 
-> [!NOTE]
-> If you are currently enrolled in the course(s) below and cannot find a lecture slide for the week,  **check Canvas as the Unit of Study sites will always host the latest learning resources for download.**
+### ENVX1002 - Semester 1, 2024
 
-### 2024
-Click on the titles to view the HTML slides. 
-
-| Week | ENVX1002 | ENVX2001 |
-| --- | --- | --- |
-| 01 | [Introduction][w01envx1001] | [L01a Welcome][y2lect01] \| [L01b Introduction][y2lect02] |
-| 02 | [Exploring data][w02envx1001] | [L02a Sampling designs 1][y2lect03] \| [L02b Sampling designs 2][y2lect04] |
-| 03 | [Probability distributions][w03envx1001] | [L03a *t*-tests][y2lect05] \| [L03b One-way ANOVA][y2lect06]|
-| 04 | [Sampling distributions][w04envx1001] | L04 Residual diagnostics & post-hoc tests |
-| 05 | One-sample tests | L05 Experimental design |
-| 06 | Two-sample tests | L06 ANOVA with blocking |
-| 07 | Non-parametric tests 1 | L07 Regression modelling |
-| 08 | Non-parametric tests 2 | L08 Regression model development |
-| 09 | Describing relationships | L09 Regression model assessment|
-| 10 | Simple linear regression | L10 Principle component analysis |
-| 11 | Multiple linear regression | L11 Clustering |
-| 12 | Non-linear regression | L12 Multidimensional scaling |
-
-
-## Tutorials & Labs
-
-### 2024
-
-Note to students: in ENVX untis, Tutorials **must** be completed before the Labs.
-
-| Week | ENVX1002 | ENVX2001 |
-| --- | --- | --- |
-| 01 | Lab 01 | Tutorial 01 \| Lab 01 |
-| 02 | Tutorial 02 \| Lab 02 | Tutorial 02 \| Lab 02 |
-| 03 | Tutorial 03 \| Lab 03 | Tutorial 03 \| Lab 03 |
-| 04 | Tutorial 04 \| Lab 04 | Tutorial 04 \| Lab 04 |
-| 05 | Tutorial 05 \| Lab 05 | Tutorial 05 \| Lab 05 |
-| 06 | Tutorial 06 \| Lab 06 | Tutorial 06 \| Lab 06 |
-| 07 | Tutorial 07 \| Lab 07 | Tutorial 07 \| Lab 07 |
-| 08 | Tutorial 08 \| Lab 08 | Tutorial 08 \| Lab 08 |
-| 09 | Tutorial 09 \| Lab 09 | Tutorial 09 \| Lab 09 |
-| 10 | Tutorial 10 \| Lab 10 | Tutorial 10 \| Lab 10 |
-| 11 | Tutorial 11 \| Lab 11 | Tutorial 11 \| Lab 11 |
-| 12 | Tutorial 12 \| Lab 12 | Tutorial 12 \| Lab 12 |
-
-
+| Week | Lectures | Tutorials | Labs |
+| --- | --- | --- | --- |
+| 01 | [Introduction][w01envx1001] | [Tutorial 01][t1envx1001] | Lab 01 |
+| 02 | [Exploring data][w02envx1001] | Tutorial 02 | Lab 02 |
+| 03 | [Probability distributions][w03envx1001] | Tutorial 03 | Lab 03 |
+| 04 | [Sampling distributions][w04envx1001] | Tutorial 04 | Lab 04 |
+| 05 | One-sample tests | Tutorial 05 | Lab 05 |
+| 06 | Two-sample tests | Tutorial 06 | Lab 06 |
+| 07 | Non-parametric tests 1 | Tutorial 07 | Lab 07 |
+| 08 | Non-parametric tests 2 | Tutorial 08 | Lab 08 |
+| 09 | Describing relationships | Tutorial 09 | Lab 09 |
+| 10 | Simple linear regression | Tutorial 10 | Lab 10 |
+| 11 | Multiple linear regression | Tutorial 11 | Lab 11 |
+| 12 | Non-linear regression | Tutorial 12 | Lab 12 |
+| 13 | Revision | - | - |
 
 
 ### License
@@ -95,26 +68,3 @@ All of the work hosted in ENVX-resources take some form of [Creative Commons](ht
 <!-- Tutorials -->
 [t2envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial02
 
-
-<!-- ENVX2001 Links -->
-<!-- Module 1 -->
-[y2lect01]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic01a
-[y2lect02]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic01b
-[y2lect03]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic02a
-[y2lect04]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic02b
-[y2lect05]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic03a
-[y2lect06]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic03b
-<!-- Module 2 -->
-[y2lect07]: README.md
-[y2lect08]: README.md
-[y2lect09]: README.md
-<!-- Module 3 -->
-[y2lect10]: README.md
-[y2lect11]: README.md
-[y2lect12]: README.md
-<!-- Module 4 -->
-[y2lect13]: README.md
-[y2lect14]: README.md
-[y2lect15]: README.md
-<!-- Revision W13 -->
-[y2lect16]: README.md
