@@ -1,12 +1,10 @@
 ## Hi there 👋
-This is an online open educational resources repository that is part of the [SOLES Open Educational Resources group](https://github.com/usyd-soles-edu).
+This is an online open educational resources (OER) repository that is part of the [SOLES Open Educational Resources group](https://github.com/usyd-soles-edu).
 Resources will be available for the following units:
 
 - [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) - _partially implemented, should complete in 2024_
 - [ENVX2001: Applied Statistical Methods](https://www.sydney.edu.au/units/ENVX2001) - _partially implemented, full migration planned for 2025_
 - [ENVX3002: Statistics in the Natural Sciences](https://www.sydney.edu.au/units/ENVX3002) - _scheduled for 2025_
-
-While these resources are provided for students at the University of Sydney, we have decided to release these resources to the public. Feel free to use and reuse our work to learn and teach second-year statistical concepts. If you wish to contribute, create an issue or pull request in any of our repositories!
 
 ## Handbooks
 
