@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 welcome to ENVX!
 This is an online open educational resources (OER) repository that is part of the [SOLES Open Educational Resources group](https://github.com/usyd-soles-edu).
 Resources will be available for the following units:
 
