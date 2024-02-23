@@ -39,6 +39,10 @@ These links are for quick access to the resource outputs (documents). They are u
 
 All of the work hosted in ENVX-resources take some form of [Creative Commons](https://creativecommons.org/) license or another. Please check each repository for licensing information. If you see errors, feel free to include a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
+### Contributing
+
+Contribution guidelines will eventually be hosted [here](https://github.com/ENVX-resources/.github/blob/main/Contribution%20Guidelines/README.md).
+
 <!-- ENVX1002 Links (update each year?) -->
 <!-- Lectures -->
 [w01envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic01
