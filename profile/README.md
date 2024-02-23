@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 welcome to ENVX!
 This is an online open educational resources (OER) repository that is part of the [SOLES Open Educational Resources group](https://github.com/usyd-soles-edu).
 Resources will be available for the following units:
 
@@ -10,7 +10,7 @@ Resources will be available for the following units:
 
 Handbooks (also called manuals) are supplementary course material for a Unit of Study. Not all units deploy handbooks, but we plan to do so for ENVX units. Note that the books are still in development (2024).
 
-- ENVX1002 Handbook | [*Source*](https://github.com/ENVX-resources/ENVX1002-manual)
+- [ENVX1002 Handbook](https://envx-resources.github.io/ENVX1002-manual/) | [*Source*](https://github.com/ENVX-resources/ENVX1002-manual)
 - ENVX2001 Handbook - *will be released in 2025*
 
 ## Quick links
