@@ -1,4 +1,4 @@
 
 ## Under construction
 
-- [Publishing automatically to GitHub](publishing-to-github.md)
+- [Publishing automatically to GitHub in RStudio](publishing-to-github.md)
