@@ -1,3 +1,5 @@
+> back to [Contribution Guidelines](README.md)
+
 ## Pubishing to Github Pages from Quatro in RStudio
 
 This document describes how to publish a Quatro document to Github Pages.
