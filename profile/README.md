@@ -59,7 +59,7 @@ Contribution guidelines will eventually be hosted [here](https://github.com/ENVX
 [w12envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic12
 <!-- Tutorials -->
 [t2envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial02
-[t3ENVX1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial03
+[t3envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial03
 [t4envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial04
 [t5envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial05
 [t6envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial06
