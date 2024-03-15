@@ -24,7 +24,7 @@ These links are for quick access to the resource outputs (documents). They are u
 | 02 | [Exploring data][w02envx1001] | [Tutorial 02][t2envx1001] | [Lab 02][l2envx1001] |
 | 03 | [Probability distributions][w03envx1001] | [Tutorial 03][t3envx1001] | [Lab 03][l3envx1001] |
 | 04 | [Sampling distributions][w04envx1001] | [Tutorial 04][t4envx1001] | [Lab 04][l4envx1001]|
-| 05 | [One-sample tests][w05envx1001] | Tutorial 05 | [Lab 05][15envx1001] |
+| 05 | [One-sample tests][w05envx1001] | Tutorial 05 | [Lab 05][l5envx1001] |
 | 06 | Two-sample tests | Tutorial 06 | Lab 06 |
 | 07 | Non-parametric tests 1 | Tutorial 07 | Lab 07 |
 | 08 | Non-parametric tests 2 | Tutorial 08 | Lab 08 |
