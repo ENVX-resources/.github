@@ -61,7 +61,7 @@ Contribution guidelines will eventually be hosted [here](https://github.com/ENVX
 [t2envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial02
 [t3envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial03
 [t4envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial04
-[t5envx1001]: https://hub.ovh2.mybinder.org/user/envx-resources--2024-tutorial05-u52q6fw1/rstudio/?view=rmarkdown
+[t5envx1001]: https://mybinder.org/v2/gh/ENVX-Resources/ ENVX1002-2024-Tutorial05/main?urlpath=shiny/tutorial/Tutorial_05.Rmd
 [t6envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial06
 [t7envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial07
 [t8envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial08
