@@ -25,7 +25,7 @@ These links are for quick access to the resource outputs (documents). They are u
 | 03 | [Probability distributions][w03envx1001] | [Tutorial 03][t3envx1001] | [Lab 03][l3envx1001] |
 | 04 | [Sampling distributions][w04envx1001] | [Tutorial 04][t4envx1001] | [Lab 04][l4envx1001]|
 | 05 | [One-sample tests][w05envx1001] | [Tutorial 05][t5envx1001] | [Lab 05][l5envx1001] |
-| 06 | [Two-sample tests Part I][w06aenvx1001] <br> [Two-sample tests Part II][w06benvx1001] | Tutorial 06 | Lab 06 |
+| 06 | [Two-sample tests Part I][w06aenvx1001] <br> [Two-sample tests Part II][w06benvx1001] | [Tutorial 06][[t6envx1001] | Lab 06 |
 | 07 | Non-parametric tests 1 | Tutorial 07 | Lab 07 |
 | 08 | Non-parametric tests 2 | Tutorial 08 | Lab 08 |
 | 09 | Describing relationships | Tutorial 09 | Lab 09 |
@@ -63,7 +63,7 @@ Contribution guidelines will eventually be hosted [here](https://github.com/ENVX
 [t3envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial03
 [t4envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial04
 [t5envx1001]: https://mybinder.org/v2/gh/ENVX-Resources/ENVX1002-2024-Tutorial05/main?urlpath=shiny/tutorial/Tutorial_05.Rmd
-[t6envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial06
+[t6envx1001]: https://mybinder.org/v2/gh/ENVX-resources/ENVX1002-2024-Tutorial06/main?urlpath=shiny/tutorial/tutorial/learnr.Rmd
 [t7envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial07
 [t8envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial08
 [t9envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial09
