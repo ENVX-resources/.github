@@ -26,7 +26,7 @@ These links are for quick access to the resource outputs (documents). They are u
 | 04 | [Sampling distributions][w04envx1001] | [Tutorial 04][t4envx1001] | [Lab 04][l4envx1001]|
 | 05 | [One-sample tests][w05envx1001] | [Tutorial 05][t5envx1001] | [Lab 05][l5envx1001] |
 | 06 | [Two-sample tests Part I][w06aenvx1001] <br> [Two-sample tests Part II][w06benvx1001] | [Tutorial 06][t6envx1001] | [Lab 06][l6envx1001] |
-| 07 | [Non-parametric tests][w07aenvx1001] <br> Chi-squared tests | Tutorial 07 | [Lab 07][l7envx1001] |
+| 07 | [Non-parametric tests][w07aenvx1001] <br> Chi-squared tests | [Tutorial 07][envxpackage] | [Lab 07][l7envx1001] |
 | 08 | Non-parametric tests 2 | Tutorial 08 | Lab 08 |
 | 09 | Describing relationships | Tutorial 09 | Lab 09 |
 | 10 | Simple linear regression | Tutorial 10 | Lab 10 |
@@ -60,6 +60,7 @@ Contribution guidelines will eventually be hosted [here](https://github.com/ENVX
 [w11envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic11
 [w12envx1001]: https://envx-resources.github.io/ENVX1002-2024-Lecture-Topic12
 <!-- Tutorials -->
+[envxpackage]: https://github.com/ENVX-resources/envx?tab=readme-ov-file#tutorials
 [t2envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial02
 [t3envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial03
 [t4envx1001]: https://envx-resources.github.io/ENVX1002-2024-Tutorial04
