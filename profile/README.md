@@ -27,7 +27,7 @@ These links are for quick access to the resource outputs (documents). They are u
 | 05 | [One-sample tests][w05envx1001] | [Tutorial 05][t5envx1001] | [Lab 05][l5envx1001] |
 | 06 | [Two-sample tests Part I][w06aenvx1001] <br> [Two-sample tests Part II][w06benvx1001] | [Tutorial 06][t6envx1001] | [Lab 06][l6envx1001] |
 | 07 | [Non-parametric tests][w07aenvx1001] <br> [Chi-squared tests][w07benvx1001] | Tutorial 07 <br>[`envx`][envxpackage] [Binder](https://mybinder.org/v2/gh/ENVX-resources/ENVX1002-2024-Tutorial07/main?urlpath=shiny/tutorial/tut07.Rmd) | [Lab 07][l7envx1001] |
-| 08 | [Permutation tests and bootstrap][w08aenvx1001] | Tutorial 08 | No labs |
+| 08 | [Permutation tests and bootstrap][w08aenvx1001] | Tutorial 08 [`envx`][envxpackage] | No labs |
 | 09 | Describing relationships | Tutorial 09 | Lab 09 |
 | 10 | Simple linear regression | Tutorial 10 | Lab 10 |
 | 11 | Multiple linear regression | Tutorial 11 | Lab 11 |
