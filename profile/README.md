@@ -29,7 +29,7 @@ These links are for quick access to the resource outputs (documents). They are u
 | 07 | [Non-parametric tests][w07aenvx1001] <br> [Chi-squared tests][w07benvx1001] | Tutorial 07 <br>[`envx`][envxpackage] [Binder](https://mybinder.org/v2/gh/ENVX-resources/ENVX1002-2024-Tutorial07/main?urlpath=shiny/tutorial/tut07.Rmd) | [Lab 07][l7envx1001] |
 | 08 | [Permutation tests and bootstrap][w08aenvx1001] | Tutorial 08 [`envx`][envxpackage] | No labs |
 | 09 | Describing relationships | Tutorial 09 | Lab 09 |
-| 10 | Simple linear regression | Tutorial 10 | Lab 10 |
+| 10 | [Simple linear regression][w10envx1001] | Tutorial 10 | Lab 10 |
 | 11 | Multiple linear regression | Tutorial 11 | Lab 11 |
 | 12 | [Non-linear regression][w12envx1001] | Tutorial 12 | Lab 12 |
 | 13 | Revision | - | - |
