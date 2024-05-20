@@ -31,7 +31,7 @@ These links are for quick access to the resource outputs (documents). They are u
 | 09 | Describing relationships | Tutorial 09 | Lab 09 |
 | 10 | Simple linear regression | Tutorial 10 | Lab 10 |
 | 11 | Multiple linear regression | Tutorial 11 | Lab 11 |
-| 12 | Non-linear regression | Tutorial 12 | Lab 12 |
+| 12 | [Non-linear regression][w12envx1001] | Tutorial 12 | Lab 12 |
 | 13 | Revision | - | - |
 
 
