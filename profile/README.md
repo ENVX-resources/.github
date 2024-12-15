@@ -1,8 +1,6 @@
 ## Welcome to ENVX Resources 👋
 
-An open educational resources (OER) repository, this site part of the [SOLES Open Educational Resources](https://github.com/usyd-soles-edu) organisation.
-
-### Available Resources
+This site hosts all the lectures, praticals and other resources that we have open-sourced from ENVX1002 and ENVX2001. For more information about USYD's open educational resources (OER), visit the [SOLES OER organisation](https://github.com/usyd-soles-edu).
 
 | Unit | Lectures | Handbook & Practicals |
 |------|----------|----------------------|
