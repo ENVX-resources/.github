@@ -4,11 +4,13 @@ This site hosts all the lectures, praticals and other resources that we have ope
 
 | Unit | Lectures | Handbook & Practicals |
 |------|----------|----------------------|
-| [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) | [Lectures][envx1002lectures] \| [Source][envx1002source] | [Handbook](https://envx-resources.github.io/ENVX1002-manual/) \| [Source](https://github.com/ENVX-resources/ENVX1002-manual) |
-| [ENVX2001: Applied Statistical Methods](https://www.sydney.edu.au/units/ENVX2001) | [Lectures]() \| [Source]() | [Handbook]() \| [Source]() |
+| [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) | [Lectures][envx1002lectures] ([source][envx1002source]) | [Handbook][envx1002handbook] ([Source][envx1002handbooksrc]) |
 
-[envx1002lectures]: https://envx-resources.github.io/ENVX1002-lectures/
+[envx1002lectures]: https://envx-resources.github.io/ENVX1002-lectures
 [envx1002source]: https://github.com/ENVX-resources/ENVX1002-lectures
+[envx1002handbook]: https://envx-resources.github.io/ENVX1002-handbook/
+[envx1002handbooksrc]: https://github.com/ENVX-resources/ENVX1002-handbook
+
 
 ### R Package
 
