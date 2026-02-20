@@ -4,7 +4,8 @@ This site hosts all the lectures, praticals and other resources that we have ope
 
 | Unit | Lectures | Handbook & Practicals |
 |------|----------|----------------------|
-| [ENVX1002: Introduction to Statistical Methods](https://www.sydney.edu.au/units/ENVX1002) | [Lectures][envx1002lectures] ([source][envx1002source]) | [Handbook][envx1002handbook] ([Source][envx1002handbooksrc]) |
+| [ENVX1002: Statistics in life and environmental sciences](https://www.sydney.edu.au/units/ENVX1002) | [Lectures][envx1002lectures] ([source][envx1002source]) | [Handbook][envx1002handbook] ([Source][envx1002handbooksrc]) |
+| [ENVX2001: Applied statistical methods](https://www.sydney.edu.au/units/ENVX2001) | [All resources](https://github.com/ENVX-resources/ENVX2001-resources) | |
 
 [envx1002lectures]: https://envx-resources.github.io/ENVX1002-lectures
 [envx1002source]: https://github.com/ENVX-resources/ENVX1002-lectures
