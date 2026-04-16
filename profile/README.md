@@ -31,10 +31,10 @@ First year
 [![Handbook](https://img.shields.io/badge/Handbook-1a355e?style=for-the-badge)](https://envx-resources.github.io/ENVX1002-handbook/)
 [![Lectures](https://img.shields.io/badge/Lectures-8f9ec9?style=for-the-badge)](https://envx-resources.github.io/ENVX1002-lectures/)
 
-- **12** lecture slide decks
-- **10** handbook chapters (t-tests, chi-squared, regression, MLR, non-linear)
-- **13** computer labs
-- [Geoff's R Guide](https://envx-resources.github.io/ENVX1002-handbook/) — a practical survival guide to R and RStudio
+**12** lecture slide decks<br>
+**10** handbook chapters (t-tests, chi-squared, regression, MLR, non-linear)<br>
+**13** computer labs<br>
+[Geoff's R Guide](https://envx-resources.github.io/ENVX1002-handbook/) — a practical survival guide to R and RStudio
 
 </td>
 <td align="center" width="50%">
@@ -47,10 +47,10 @@ Second year
 
 [![Handbook](https://img.shields.io/badge/Handbook-e64626?style=for-the-badge)](https://envx-resources.github.io/ENVX2001-resources/)
 
-- **12** lecture slide decks
-- **11** tutorial worksheets
-- **12** lab worksheets with datasets
-- Interactive widgets for CI, *p*-values, and ANOVA
+**12** lecture slide decks<br>
+**11** tutorial worksheets<br>
+**12** lab worksheets with datasets<br>
+Interactive widgets for CI, *p*-values, and ANOVA
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19605517.svg)](https://doi.org/10.5281/zenodo.19605517)
 
