@@ -10,8 +10,6 @@ School of Life and Environmental Sciences, The University of Sydney
 
 </div>
 
----
-
 <div align="center">
 
 ### Current ENVX Units
@@ -34,7 +32,7 @@ First year
 **12** lecture slide decks<br>
 **10** handbook chapters (t-tests, chi-squared, regression, MLR, non-linear)<br>
 **13** computer labs<br>
-[Geoff's R Guide](https://envx-resources.github.io/ENVX1002-handbook/) — a practical survival guide to R and RStudio
+[A brief R guide for surviving ENVX1002](https://envx-resources.github.io/ENVX1002-handbook/000-rguide.html) by Geoffrey Mazue
 
 </td>
 <td align="center" width="50%">
@@ -58,7 +56,6 @@ Interactive widgets for CI, *p*-values, and ANOVA
 </tr>
 </table>
 
----
 
 ENVX-resources is part of [SOLES Open Educational Resources](https://github.com/usyd-soles-edu). We host lectures, tutorials and labs as Open Educational Resources for ENVX units. Currently, only ENVX1002 and ENVX2001 are available.
 
@@ -73,7 +70,6 @@ ENVX-resources is part of [SOLES Open Educational Resources](https://github.com/
 - [**Lab template**](https://github.com/ENVX-resources/ENVX-lab-template) — Quarto starter for authoring new lab worksheets in the ENVX format.
 - [**SPSS boxplot cheatsheet**](https://github.com/ENVX-resources/cheatsheet-spss-boxplot) — Quick reference handout for creating boxplots in SPSS.
 
----
 
 ### Reuse and attribution
 
