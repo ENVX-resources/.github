@@ -31,7 +31,7 @@ First year
 
 **12** lecture slide decks<br>
 **10** handbook chapters (t-tests, chi-squared, regression, MLR, non-linear)<br>
-**13** computer labs<br>
+**12** computer labs<br>
 [A brief R guide for surviving ENVX1002](https://envx-resources.github.io/ENVX1002-handbook/000-rguide.html) by Geoffrey Mazue
 
 </td>
