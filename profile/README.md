@@ -26,8 +26,8 @@ School of Life and Environmental Sciences, The University of Sydney
 
 First year
 
-[![Handbook](https://img.shields.io/badge/Handbook-1a355e?style=for-the-badge)](https://envx-resources.github.io/ENVX1002-handbook/)
-[![Lectures](https://img.shields.io/badge/Lectures-8f9ec9?style=for-the-badge)](https://envx-resources.github.io/ENVX1002-lectures/)
+[![Handbook](https://img.shields.io/badge/Handbook-1a355e?style=for-the-badge)](https://github.com/ENVX-resources/ENVX1002-handbook/)
+[![Lectures](https://img.shields.io/badge/Lectures-8f9ec9?style=for-the-badge)](https://github.com/ENVX-resources/ENVX1002-lectures/)
 
 **12** lecture slide decks<br>
 **10** handbook chapters (t-tests, chi-squared, regression, MLR, non-linear)<br>
@@ -43,7 +43,7 @@ First year
 
 Second year
 
-[![Handbook](https://img.shields.io/badge/Handbook-e64626?style=for-the-badge)](https://envx-resources.github.io/ENVX2001-resources/)
+[![Handbook](https://img.shields.io/badge/Handbook-e64626?style=for-the-badge)](https://github.com/ENVX-resources/ENVX2001-resources)
 
 **12** lecture slide decks<br>
 **11** tutorial worksheets<br>
