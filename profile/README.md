@@ -43,10 +43,10 @@ First year
 
 Second year
 
-[![Handbook](https://img.shields.io/badge/Handbook-e64626?style=for-the-badge)](https://github.com/ENVX-resources/ENVX2001-resources)
+[![Handbook](https://img.shields.io/badge/Handbook-e64626?style=for-the-badge)](https://github.com/ENVX-resources/ENVX2001-resources)<br>
+[Source](https://github.com/ENVX-resources/ENVX2001-resources)
 
-**12** lecture slide decks<br>
-**11** tutorial worksheets<br>
+**12** lecture slides | **11** tutorial worksheets<br>
 **12** lab worksheets with datasets<br>
 Interactive widgets for CI, *p*-values, and ANOVA
 
