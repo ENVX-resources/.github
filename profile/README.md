@@ -68,8 +68,6 @@ ENVX-resources is part of [SOLES Open Educational Resources](https://github.com/
 ### For staff
 
 - [**Lab template**](https://github.com/ENVX-resources/ENVX-lab-template) — Quarto starter for authoring new lab worksheets in the ENVX format.
-- [**SPSS boxplot cheatsheet**](https://github.com/ENVX-resources/cheatsheet-spss-boxplot) — Quick reference handout for creating boxplots in SPSS.
-
 
 ### Reuse and attribution
 
